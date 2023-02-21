@@ -1,0 +1,7 @@
+D:\Demo_Project\Workshop\Workshop\obj\Release\net6.0\PubTmp\Out\Workshop.exe
+D:\Demo_Project\Workshop\Workshop\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Demo_Project\Workshop\Workshop\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Demo_Project\Workshop\Workshop\obj\Release\net6.0\PubTmp\Out\Workshop.dll
+D:\Demo_Project\Workshop\Workshop\obj\Release\net6.0\PubTmp\Out\Workshop.deps.json
+D:\Demo_Project\Workshop\Workshop\obj\Release\net6.0\PubTmp\Out\Workshop.runtimeconfig.json
+D:\Demo_Project\Workshop\Workshop\obj\Release\net6.0\PubTmp\Out\Workshop.pdb
